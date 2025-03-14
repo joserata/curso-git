@@ -1,3 +1,3 @@
 print("que vaina con esto")
 
-print('si aveces passa entonces toca aprender bien')
+print('si aveces pasa entonces toca aprender bien')
